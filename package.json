@@ -1,0 +1,8 @@
+{
+  "name": "azure-sql-api",
+  "version": "1.0.0",
+  "description": "API Bridge para Azure SQL desde Supabase/Lovable",
+  "dependencies": {
+    "mssql": "^10.0.1"
+  }
+}
